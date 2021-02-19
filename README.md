@@ -7,11 +7,10 @@
 [![7.png](https://i.postimg.cc/Nj9yLfK3/7.png)](https://postimg.cc/yDK6bKXj)
 
 #### Cumulative returns across Dow, S&P and Nasdaq drop in 04/20
-[![5.png](https://i.postimg.cc/s2H0mmjQ/5.png)](https://postimg.cc/FfcZsjJN)
-
-#### Historical pandemics relative to COVID
 [![6.png](https://i.postimg.cc/26FLmc13/6.png)](https://postimg.cc/Kkj8D5ry)
 
+#### Historical pandemics relative to COVID
+[![5.png](https://i.postimg.cc/s2H0mmjQ/5.png)](https://postimg.cc/FfcZsjJN)
 
 ### 2) Analyze Google Sector Mobility Data and visualize how mobility trends have changed relative to the baseline as a result of social distancing policies. 
 
