@@ -11,19 +11,11 @@ This was an exploratory project to understand the impact of COVID on the stock m
 #### COVID-10 cases and deaths cross on 12/20
 ![Screenshot](6.1.png)
 
-<<<<<<< HEAD
 #### Cumulative returns across Dow, S&P and Nasdaq drop on 04/20
 ![Screenshot](6.2.png)
 
 #### Historical pandemics relative to COVID
 ![Screenshot](6.3.png)
-=======
-#### Cumulative returns across Dow, S&P and Nasdaq drop in 04/20
-[![6.png](https://i.postimg.cc/26FLmc13/6.png)](https://postimg.cc/Kkj8D5ry)
->>>>>>> 9fac9c9b9807b77d1774a69b06249b5037fdb476
-
-#### Historical pandemics relative to COVID
-[![5.png](https://i.postimg.cc/s2H0mmjQ/5.png)](https://postimg.cc/FfcZsjJN)
 
 ### 2) Analyze Google Sector Mobility Data and visualize how mobility trends have changed relative to the baseline as a result of social distancing policies. 
 
